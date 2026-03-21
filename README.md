@@ -30,7 +30,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo" />
 </div>
 
-###
 <img align="right" height="150" src="https://i.pinimg.com/736x/82/c3/87/82c387769f9306447c918a18fd10691d.jpg" />
 
 <div align="left">
@@ -40,4 +39,8 @@
   <a href="mailto:bitencourtn412@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devarya00/devarya00/output/dist/snake.svg" alt="Snake animation" />
 </div>
