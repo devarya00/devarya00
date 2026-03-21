@@ -42,5 +42,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devarya00/devarya00/output/dist/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/devarya00/devarya00/output/snake.svg" width="100%" alt="Snake animation" />
 </div>
