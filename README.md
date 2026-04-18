@@ -1,5 +1,5 @@
 <h2 align="left">Hi! 👋 I'm Natália Bitencourt</h2>
-<h5 align="left">Full-Stack Developer/h5>
+<h5 align="left">Full-Stack Developer</h5>
 
 ###
 
@@ -28,8 +28,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo" />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=php" heigth="35" alt="php logo" />
 </div>
 
 <img align="right" height="150" src="https://i.pinimg.com/736x/82/c3/87/82c387769f9306447c918a18fd10691d.jpg" />
