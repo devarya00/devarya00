@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! 👋 I'm Natália Bitencourt<br>Sou uma desenvolvedora Full-Stack, com foco na criação de soluções tecnológicas para a área de contabilidade. <br>Gosto de transformar regras de negócio complexas em sistemas eficientes e seguros.<br>
+Hi! 👋 I'm Natália Bitencourt<br>I am a Full-Stack developer focused on building tech solutions for the accounting industry. I enjoy turning complex business rules into efficient and secure systems.
+<br>
 
 
 ## 🌐 Socials:
